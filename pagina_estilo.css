@@ -1,9 +1,21 @@
-body{
-	text-align: center;
-}
-div{
-	margin: 10% 20% 10% 20%;
-}
 li{
 	list-style: none;
+	height: max-content;
+	width: max-content;
+}
+p{
+	height: max-content;
+	width: max-content;
+}
+.flex_centro{
+	text-align: center;
+	height: max-content;
+	width: max-content;
+}
+.inline_centro{
+	display: inline-flex;
+	text-align: center;
+}
+.sem_margin{
+	margin: 0%;
 }

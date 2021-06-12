@@ -1,21 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
 li{
 	list-style: none;
 	height: max-content;
 	width: max-content;
 }
-p{
+a{
 	height: max-content;
 	width: max-content;
 }
 .flex_centro{
 	text-align: center;
-	height: max-content;
-	width: max-content;
 }
-.inline_centro{
+.inline_flex_centro{
 	display: inline-flex;
 	text-align: center;
-}
-.sem_margin{
-	margin: 0%;
+	height: max-content;
+	width: max-content;
 }

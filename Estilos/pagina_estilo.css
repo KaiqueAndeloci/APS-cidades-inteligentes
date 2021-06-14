@@ -2,21 +2,30 @@
 	margin: 0;
 	padding: 0;
 }
-li{
+a{
+	text-decoration: none;
+	color: black;
+}
+#menu{
+	padding: 0px 20px;
 	list-style: none;
 	height: max-content;
 	width: max-content;
+	border: 2px solid black;
+
 }
-a{
-	height: max-content;
-	width: max-content;
-}
-.flex_centro{
-	text-align: center;
+.back_menu{
+	margin: 20px;
+	background-color: #91d3bd;
+
 }
 .inline_flex_centro{
 	display: inline-flex;
 	text-align: center;
+	align-items: center;
 	height: max-content;
 	width: max-content;
+}
+.letra_branca{
+	color: white;
 }

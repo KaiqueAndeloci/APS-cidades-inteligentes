@@ -14,15 +14,24 @@ a{
 	border: 2px solid black;
 
 }
+#imagem{
+	width: 60%;
+}
 .back_menu{
 	margin: 20px;
+	align-items: center;
+}
+.background_verde{
 	background-color: #91d3bd;
-
 }
 .inline_flex_centro{
 	display: inline-flex;
 	text-align: center;
 	align-items: center;
+	height: max-content;
+	width: max-content;
+}
+.tamanho_min{
 	height: max-content;
 	width: max-content;
 }

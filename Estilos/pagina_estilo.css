@@ -21,8 +21,11 @@ a{
 	margin: 20px;
 	align-items: center;
 }
-.background_verde{
+.background_verde1{
 	background-color: #91d3bd;
+}
+.background_verde2{
+	background-color: #03c243;
 }
 .inline_flex_centro{
 	display: inline-flex;

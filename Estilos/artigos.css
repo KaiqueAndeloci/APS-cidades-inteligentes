@@ -1,0 +1,14 @@
+.box{
+    display: flex;
+    margin: 20px;
+    align-items: center;
+}
+.artigo1{
+    min-width: 400px;
+    min-height: 400px;
+    max-width: 400px;
+    max-height: 400px;
+}
+.img{
+    background-image: ;
+}
